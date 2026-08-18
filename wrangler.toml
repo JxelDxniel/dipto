@@ -1,0 +1,6 @@
+name = "dipto"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+[triggers]
+crons = ["0 14 * * 1-5"]
