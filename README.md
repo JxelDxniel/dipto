@@ -1,4 +1,4 @@
-# Dipto 📈🤖
+# Dipto
 
 A simple, serverless market monitoring bot built on **Cloudflare Workers** that helps spot good times to buy stocks and ETFs.
 
@@ -8,7 +8,7 @@ Created this so that I dont have to constantly track the stock market and have a
 
 ---
 
-## ⚖️ Pros & Cons
+## Pros & Cons
 
 ### Pros
 * **Completely Serverless**: Runs for free on Cloudflare Workers without needing a dedicated server.
@@ -20,7 +20,7 @@ JUST SENDS ALERTS, DOES NOT ACTUALLY PLACE TRADES.
 
 ---
 
-## 🛠️ Features
+## Features
 
 * **S&P 500 Dip Tracker**: Checks if SPY is oversold or in a pullback.
 * **Growth Stock Ranking**: Scores popular stocks (like NVDA, MSFT, AAPL, AMZN, GOOGL, TSLA) to find the best potential setup.
@@ -29,7 +29,7 @@ JUST SENDS ALERTS, DOES NOT ACTUALLY PLACE TRADES.
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 * **Cloudflare Workers** (Backend runtime)
 * **Finnhub API** (Stock data & price targets)
@@ -39,7 +39,7 @@ JUST SENDS ALERTS, DOES NOT ACTUALLY PLACE TRADES.
 
 ---
 
-## 🚀 Setup & Deployment
+## Setup & Deployment
 
 1. **Clone the repo**:
    ```bash
